@@ -80,7 +80,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE .....👇
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./https://wallpaperaccess.com/full/1275101.jpg')
+global.thumb = fs.readFileSync('./Queen_Ashiya_Media/Ashiya.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
